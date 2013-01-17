@@ -18,3 +18,5 @@ public class MainActivity extends Activity {
         return true;
     }
 }
+
+//http://puravidaapps.com/taifunDX.php Tutorial für App
